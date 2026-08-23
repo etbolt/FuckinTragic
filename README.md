@@ -1,3 +1,7 @@
+The tool is a template, change out user/pass, ip's/ports to your own. TragicUSB should be used against vulnerable Win10/11 devices without admin passes (THAT YOU HAVE PERMISSION TO DEPLOY AGAINST(DON'T BE A CUNT)). 
+
+Doesn't work against enterprise. 
+
 
 ⣤⣤⣤⣤⣤⣤⣤⣤⣄⠄⢠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⡀⣠⣤⣤⣤⣤⣀⠀⢤⣤⣤⢄⣀⣠⠄⢠⠀⢄⣤⡤⠠⡤⣤⠀⣠⣄⠀⣤⣤⣤⣄⡀
 ⣿⣿⣿⣿⣿⣿⣿⣿⠏⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠈⠹⣿⣿⣿⡇⢁⢻⣿⣿⣿⣿⣧⠀⣿⣿⣿⣿⣷⠝⠙⢰⠈⢉⠁⠘⠁⠀⠛⣉⠟⠻⣽⣿⣿⣿⡇
@@ -26,9 +30,7 @@
 
 
 
-The tool is a template, change out user/pass, ip's/ports to your own. TragicUSB should be used against vulnerable Win10/11 devices without admin passes (THAT YOU HAVE PERMISSION TO DEPLOY AGAINST(DON'T BE A CUNT). 
 
-Doesn't work against enterprise. 
 
 - Screen sharing over a proxy (PowerShell).
 - Microphone recording over a proxy (PowerShell)
