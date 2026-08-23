@@ -38,9 +38,6 @@ I do not support, encourage, or assist with unauthorized access, harmful activit
 
 
 
-
-
-
 To compile the above scripts into a self-contained USB payload, you'll need to follow these steps:
 
 1. Prepare Your Environment
