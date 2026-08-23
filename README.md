@@ -85,7 +85,7 @@ Or in Visual Studio:
 
 3. Create the Encrypted DLL (encrypted.dll)
 
-#Use the Python script I provided earlier to create the encrypted .dll.
+#Use the Python script I made to create the encrypted .dll
 
     import os
     import struct
