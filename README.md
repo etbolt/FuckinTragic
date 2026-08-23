@@ -1,22 +1,46 @@
-*Author note: x
+
+⣤⣤⣤⣤⣤⣤⣤⣤⣄⠄⢠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⡀⣠⣤⣤⣤⣤⣀⠀⢤⣤⣤⢄⣀⣠⠄⢠⠀⢄⣤⡤⠠⡤⣤⠀⣠⣄⠀⣤⣤⣤⣄⡀
+⣿⣿⣿⣿⣿⣿⣿⣿⠏⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠈⠹⣿⣿⣿⡇⢁⢻⣿⣿⣿⣿⣧⠀⣿⣿⣿⣿⣷⠝⠙⢰⠈⢉⠁⠘⠁⠀⠛⣉⠟⠻⣽⣿⣿⣿⡇
+⣿⣿⣿⣿⣿⣿⣿⠏⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠃⢸⣦⣹⣿⡿⠙⠁⣠⣿⣿⣿⣿⣿⣿⣵⣌⣠⣾⡛⡁⡀⠀⠀⠁⠠⠄⠀⠉⣍⠿⠇
+⣿⣿⣿⣿⣿⣿⡟⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣤⣤⡄⠀⠀⠀⠀⠀⠀⠈⠉⢉⣁⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⢳⣷⣶⢤⠀⢠⠀⠀⠀⠄⠙⠆⠂
+⣿⣿⣿⣿⣿⣿⠇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠐⠀⠀⢈⡁⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⡆⢰⡇⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⡤⠄⠀⠀⠀⣼⣿⣿⣿⣤⠀⢀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢸⡇⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⣡⠞⡡⠄⣀⡀⠀⠀⠀⠀⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢨⡇⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⢿⣿⣿⣿⣿⣿⣿⡿⢟⣡⡶⠟⣡⠞⣡⣾⠋⠀⠀⠀⠀⢸⣿⣿⣧⣾⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⢻⠃⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⠧⠸⣿⣿⣿⣿⣿⣥⣶⣿⣯⡶⠟⣡⣾⡟⠁⠀⠀⠀⠀⣀⣸⣻⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠗⠢⠘⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣷⣶⢸⣿⣿⣿⣿⣿⣿⡿⠟⣋⣴⣾⣿⠏⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣶⣿⣿⣟⡙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡟⠈⣿⣿⣿⣿⣿⣧⣴⣿⣿⣿⡿⠁⠀⠀⣴⣿⣿⣿⡿⠿⠛⠋⠋⢻⣿⣿⣷⡌⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣻⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⡎⣿⣿⠟⠀⢀⣠⣾⣿⡿⠋⣁⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⠘⠻⢿⣿⣿⣿⣿⣷⠘⢁⣠⣴⣿⣿⣿⣿⢀⠔⣿⣷⠤⠀⣀⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡿⠀⣀⠀⠈⠙⠛⠁⠀⠀⠻⢿⣿⣿⡏⣿⠿⠏⠀⣀⡀⣲⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⠟⣠⣾⣿⣷⣄⠀⠀⣤⣀⠀⠀⠀⠿⣿⣿⣿⡿⠷⢦⣿⣿⣿⡟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⠋⣴⣿⣿⣿⣿⢻⣧⣀⡐⠋⠀⠄⠀⣠⣶⣦⣤⣤⣤⠀⢘⡛⠉⠀⡀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣆⢻⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⡟⠀⠘⢻⣿⡿⠛⠂⢠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡿⢰⣿⣿⡏⣿⡟⢼⣿⣧⠹⣿⣿⣿⣿⢹⣿⣿⢿⣿⠋⣠⣴⣿⡿⠟⠀⣠⣾⣿⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠬⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡇⣼⢹⣿⣿⣿⣿⢩⡏⡘⣣⠙⢿⣿⡟⠀⢻⣿⣿⣿⣼⣿⣿⡿⢁⣴⣿⣿⣿⣿⣿⣿⡿⠋⠀⢀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡇⣿⢸⣿⣿⣿⣿⣾⣽⣇⡇⠈⠀⠙⠣⠾⡆⠈⣁⣉⣛⣋⠛⣿⣿⣿⣿⣿⣿⣿⣿⠙⠁⢀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠁⠀⠀⢀⣘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡇⢸⣾⡉⢿⣿⣿⣿⣿⣿⣇⠐⠀⠀⠀⠀⠈⠲⣿⢿⣿⣿⣇⠈⣶⣦⣬⣉⠻⠿⠁⢀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣷⠸⣿⣿⣾⣿⣿⣷⣿⣿⣷⡀⠀⡄⠀⠀⠀⠀⠈⠙⣿⢿⠿⢷⠿⠿⠟⢋⣠⣴⠆⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⠋⠃⡄⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣦⣶⣶⣿⡿⠟⢁⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣧⠸⣿⣿⣿⣿⣿⣿⣿⣾⣧⡄⡄⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠋⢋⡉⢠⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡁⠀⠀⠀⣤⣤⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-Screen sharing over a proxy (PowerShell)
-Microphone recording over a proxy (PowerShell)
-Keylogger (C++)
-Reverse shell (PowerShell or Netcat)
-Data exfiltration over a proxy (PowerShell)
-Persistence via system-level scheduled task
-User privilege escalation
-Auto-removal of all files on USB after execution
-Replacement with a .png file
-Hidden .dll for persistence
-Encrypted .png for stealth
 
+The tool is a template, change out user/pass, ip's/ports to your own. TragicUSB should be used against vulnerable Win10/11 devices without admin passes (THAT YOU HAVE PERMISSION TO DEPLOY AGAINST(DON'T BE A CUNT). 
 
+Doesn't work against enterprise. 
 
-
-
+- Screen sharing over a proxy (PowerShell).
+- Microphone recording over a proxy (PowerShell)
+- Keylogger (C++)
+- Reverse shell (PowerShell or Netcat)
+- Data exfiltration over a proxy (PowerShell)
+- Persistence via system-level scheduled task
+- User privilege escalation
+- Auto-removal of all files on USB after execution
+- Replacement with a .png file
+- Hidden .dll for persistence
+- Encrypted .png for stealth
 
 
 *DISCLAIMER*
@@ -33,10 +57,6 @@ You should only use Metasploit-related tools in environments where you have clea
 - Company systems where you have written approval
 
 I do not support, encourage, or assist with unauthorized access, harmful activity, exploitation of third-party systems, data theft, malware activity, or any illegal use of security tools.
-
-
-
-
 
 
 
