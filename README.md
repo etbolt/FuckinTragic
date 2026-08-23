@@ -1,6 +1,40 @@
-#As a disclaimer this tool is purely for educational purposes, don't be a fucking idiot and try to use it seriously, it's buggy as hell.
-#That's what Kali is for. <3 Metasploit <3
+*DISCLAIMER*
 
+Cybersecurity tools must be used responsibly. Any information shared on this website is intended only for legal, authorized, and educational use.
+
+You should only use Metasploit-related tools in environments where you have clear permission, such as:
+
+- Your own systems
+- Personal lab environments
+- Training machines
+- CTF platforms
+- Authorized security programs
+- Company systems where you have written approval
+
+I do not support, encourage, or assist with unauthorized access, harmful activity, exploitation of third-party systems, data theft, malware activity, or any illegal use of security tools.
+
+DON'T BE A FUCKING IDIOT
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣤⠤⠤⣴⣟⡁⠀⠀⠉⠉⠓⠶⣄⣤⣖⣉⡁⠀⠀⠀⠈⠉⠳⢤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⠴⣚⣉⣭⣬⣉⣙⠲⢄⡈⠁⣀⣤⠤⠾⠿⠶⠶⠤⢤⣀⡈⠉⠙⠲⢦⡀⠀⠙⣶⡀⠀⠀⠀
+⠀⢀⡼⢗⣋⣁⡀⠀⠀⠀⠈⠙⠲⡍⢳⡯⠔⠒⠛⠉⠉⠉⠙⠒⠪⣝⡒⢄⡀⠀⠈⠂⠀⢰⠙⣆⠀⠀
+⢠⠏⢰⣿⣿⣿⢿⡄⠀⠀⠀⠀⠀⣹⢫⣶⣿⣿⣷⣦⠀⠀⠀⠀⠀⠀⠹⣆⣙⠀⠀⠀⠀⠀⠇⠸⡆⠀
+⢸⠀⢹⣧⣤⣿⣿⡇⠀⠀⢄⠀⢸⠃⣾⡏⠉⢹⣭⣿⡇⡠⠀⠠⠀⠀⠀⠀⠀⢹⠆⠀⠀⠀⠀⠀⢹⠀
+⠀⠳⣄⡉⠛⠛⠉⡀⠀⡂⣀⡷⠞⣧⠘⣿⣶⣿⣿⡿⠉⠀⢠⠀⡂⡄⣠⠖⠉⠉⠀⠀⠀⠀⠀⠀⠸⡇
+⠀⠀⠿⠍⣛⣒⣒⣓⣚⣋⠅⠀⠀⠈⢷⠦⣉⣉⠁⠀⠈⢠⣀⣠⠴⠛⣡⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⠀⡠⠖⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠷⣤⣍⣉⣉⣉⣭⡥⠴⠖⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⢸⣧⠴⠒⠒⠚⠓⠒⠒⠒⠶⠤⢤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⠘⢧⡘⢸⠖⠒⠒⢒⣶⣦⣤⣤⣬⣤⣈⣉⠙⠓⠲⠤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⠀⠀⢹⡈⢧⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀⠈⠛⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇
+⠀⠀⠀⢸⡇⢸⠀⠀⢟⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⢸⠃
+⠀⠀⠀⢸⠃⣸⠀⠀⠈⢲⡆⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⡾⠀⠀⠀⠀⠀⠀⠀⠀⡐⠀⢀⡾⠀
+⠀⠀⠀⢸⠀⣿⠀⠀⠀⠀⠑⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⢀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀
+⠀⠀⠀⢸⠀⡏⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⠟⢁⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⣠⠃⠀⠀
+⠀⠀⠀⢸⣆⠙⢦⣄⡀⠀⠀⠀⠀⢀⣀⣤⠞⠉⣠⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⢀⠞⠁⠀⠀⠀
+⠀⠀⠀⠈⠻⣤⣄⣈⡉⠛⠛⠛⠛⣙⣁⡤⠔⠚⠁⠀⠀⠀⠀⠀⠀⠀⢀⠀⠈⠀⣀⠔⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⢷⣌⡉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣊⡤⠴⠖⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠙⠓⠒⠒⠒⠒⠒⠚⠋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -120,3 +154,18 @@ Final Result (if nothing fucked up):
 - Creates persistence using system-level scheduled tasks.
 - Cleans up the USB drive after execution.
 - Includes a hidden .exe and encrypted .dll for stealth.
+
+⠀⠀⠀⠀⠀⠀⢀⠴⠚⠉⠉⠀⠈⠉⠙⢲⡤⠐⠊⠉⠉⠉⠉⠲⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡴⡁⠀⠀⠀⢀⠤⠤⠤⢤⣀⢱⡀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀
+⠀⠀⠀⣀⡴⠁⠀⠀⠐⠀⠀⠀⠀⢀⣀⣈⡙⢳⡀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
+⠀⢠⢿⠷⡾⢷⣦⣀⠀⢀⡠⣶⡽⢷⣂⣀⠀⠀⣨⣶⣀⣉⠀⢀⣀⡀⠀⣀⣈⣢
+⢰⢾⠀⠀⠁⠀⠈⠙⠷⣶⣛⣿⣶⣷⣿⣿⣿⣿⣿⣿⠋⣯⣭⣿⣿⣿⣿⣿⣿⣿
+⣾⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⡟⡟⠢⠜⠿⣿⣿⣿⣿⣿⢟⡥
+⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠛⠛⠍⠁⠀⠀⠀⠀⠀⠀⠈⢤⣭⡾⠋⠀
+⡇⠀⠀⠀⠀⠀⠀⠀⣀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣫⠀⠀
+⣷⣄⠀⠀⠀⠀⠀⠸⡁⢰⣈⠑⠦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣼⢲⠀
+⣿⣿⣷⣤⣀⠀⠀⠀⠑⢤⣈⠑⠒⠤⠤⢍⣉⣉⣓⣒⣒⣒⣒⣒⣋⣉⣡⢾⠜⠀
+⣿⣿⣿⣿⣿⣿⣶⣤⣀⣀⣀⠉⠉⠓⠲⠶⠤⠤⠤⣄⣀⣀⣀⣀⣀⣤⣿⠟⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⡖⠀⠀⠀⠀⢀⣀⣤⣾⣾⣿⣗⣲⢤⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠒⣠⣾⣿⣿⣿⣿⣿⣿⣿⢿⡧⠐
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣽⣟⣿⣿⣿⣟⡵⠋⠀⠀
