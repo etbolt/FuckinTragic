@@ -1,3 +1,24 @@
+*Author note: x
+
+
+Screen sharing over a proxy (PowerShell)
+Microphone recording over a proxy (PowerShell)
+Keylogger (C++)
+Reverse shell (PowerShell or Netcat)
+Data exfiltration over a proxy (PowerShell)
+Persistence via system-level scheduled task
+User privilege escalation
+Auto-removal of all files on USB after execution
+Replacement with a .png file
+Hidden .dll for persistence
+Encrypted .png for stealth
+
+
+
+
+
+
+
 *DISCLAIMER*
 
 Cybersecurity tools must be used responsibly. Any information shared on this website is intended only for legal, authorized, and educational use.
