@@ -13,31 +13,6 @@ You should only use Metasploit-related tools in environments where you have clea
 
 I do not support, encourage, or assist with unauthorized access, harmful activity, exploitation of third-party systems, data theft, malware activity, or any illegal use of security tools.
 
-⠀
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣀⣤⠤⠤⣴⣟⡁⠀⠀⠉⠉⠓⠶⣄⣤⣖⣉⡁⠀⠀⠀⠈⠉⠳⢤⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⠴⣚⣉⣭⣬⣉⣙⠲⢄⡈⠁⣀⣤⠤⠾⠿⠶⠶⠤⢤⣀⡈⠉⠙⠲⢦⡀⠀⠙⣶⡀⠀⠀⠀
-⠀⢀⡼⢗⣋⣁⡀⠀⠀⠀⠈⠙⠲⡍⢳⡯⠔⠒⠛⠉⠉⠉⠙⠒⠪⣝⡒⢄⡀⠀⠈⠂⠀⢰⠙⣆⠀⠀
-⢠⠏⢰⣿⣿⣿⢿⡄⠀⠀⠀⠀⠀⣹⢫⣶⣿⣿⣷⣦⠀⠀⠀⠀⠀⠀⠹⣆⣙⠀⠀⠀⠀⠀⠇⠸⡆⠀
-⢸⠀⢹⣧⣤⣿⣿⡇⠀⠀⢄⠀⢸⠃⣾⡏⠉⢹⣭⣿⡇⡠⠀⠠⠀⠀⠀⠀⠀⢹⠆⠀⠀⠀⠀⠀⢹⠀
-⠀⠳⣄⡉⠛⠛⠉⡀⠀⡂⣀⡷⠞⣧⠘⣿⣶⣿⣿⡿⠉⠀⢠⠀⡂⡄⣠⠖⠉⠉⠀⠀⠀⠀⠀⠀⠸⡇
-⠀⠀⠿⠍⣛⣒⣒⣓⣚⣋⠅⠀⠀⠈⢷⠦⣉⣉⠁⠀⠈⢠⣀⣠⠴⠛⣡⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
-⠀⠀⡠⠖⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠷⣤⣍⣉⣉⣉⣭⡥⠴⠖⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
-⠀⢸⣧⠴⠒⠒⠚⠓⠒⠒⠒⠶⠤⢤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
-⠀⠘⢧⡘⢸⠖⠒⠒⢒⣶⣦⣤⣤⣬⣤⣈⣉⠙⠓⠲⠤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
-⠀⠀⠀⢹⡈⢧⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀⠈⠛⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇
-⠀⠀⠀⢸⡇⢸⠀⠀⢟⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⢸⠃
-⠀⠀⠀⢸⠃⣸⠀⠀⠈⢲⡆⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⡾⠀⠀⠀⠀⠀⠀⠀⠀⡐⠀⢀⡾⠀
-⠀⠀⠀⢸⠀⣿⠀⠀⠀⠀⠑⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⢀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀
-⠀⠀⠀⢸⠀⡏⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⠟⢁⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⣠⠃⠀⠀
-⠀⠀⠀⢸⣆⠙⢦⣄⡀⠀⠀⠀⠀⢀⣀⣤⠞⠉⣠⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⢀⠞⠁⠀⠀⠀
-⠀⠀⠀⠈⠻⣤⣄⣈⡉⠛⠛⠛⠛⣙⣁⡤⠔⠚⠁⠀⠀⠀⠀⠀⠀⠀⢀⠀⠈⠀⣀⠔⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⢷⣌⡉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣊⡤⠴⠖⠋⠁⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠙⠓⠒⠒⠒⠒⠒⠚⠋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-
 
 
 To compile the above scripts into a self-contained USB payload, you'll need to follow these steps:
@@ -157,10 +132,10 @@ Final Result (if nothing fucked up):
 - Cleans up the USB drive after execution.
 - Includes a hidden .exe and encrypted .dll for stealth.
 
-⠀⠀
+⠀⠀Remove unnecessary whitespace and add ASCII art
 
 
-     ⠀⢀⠴⠚⠉⠉⠀⠈⠉⠙⢲⡤⠐⠊⠉⠉⠉⠉⠲⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⠴⠚⠉⠉⠀⠈⠉⠙⢲⡤⠐⠊⠉⠉⠉⠉⠲⡄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⡴⡁⠀⠀⠀⢀⠤⠤⠤⢤⣀⢱⡀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀
 ⠀⠀⠀⣀⡴⠁⠀⠀⠐⠀⠀⠀⠀⢀⣀⣈⡙⢳⡀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
 ⠀⢠⢿⠷⡾⢷⣦⣀⠀⢀⡠⣶⡽⢷⣂⣀⠀⠀⣨⣶⣀⣉⠀⢀⣀⡀⠀⣀⣈⣢
