@@ -1,9 +1,7 @@
 
-TragicUSB should be used against vulnerable Win10/11 devices without admin passes.
+*TragicUSB will only work against vulnerable Win10/11 devices without admin passes.*
 
-Doesn't work against enterprise. 
-
-
+CONTENTS:
 
 - Screen sharing over a proxy (PowerShell).
 - Microphone recording over a proxy (PowerShell)
