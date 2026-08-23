@@ -22,7 +22,7 @@ Doesn't work against enterprise.
 
 Cybersecurity tools must be used responsibly. Any information shared on this website is intended only for legal, authorized, and educational use.
 
-You should only use Metasploit-related tools in environments where you have clear permission, such as:
+You should only use this tool in environments where you have clear permission, such as:
 
 - Your own systems
 - Personal lab environments
