@@ -13,8 +13,6 @@ You should only use Metasploit-related tools in environments where you have clea
 
 I do not support, encourage, or assist with unauthorized access, harmful activity, exploitation of third-party systems, data theft, malware activity, or any illegal use of security tools.
 
-DON'T BE A FUCKING IDIOT
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣀⣤⠤⠤⣴⣟⡁⠀⠀⠉⠉⠓⠶⣄⣤⣖⣉⡁⠀⠀⠀⠈⠉⠳⢤⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣠⠴⣚⣉⣭⣬⣉⣙⠲⢄⡈⠁⣀⣤⠤⠾⠿⠶⠶⠤⢤⣀⡈⠉⠙⠲⢦⡀⠀⠙⣶⡀⠀⠀⠀
