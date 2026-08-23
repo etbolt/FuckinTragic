@@ -13,7 +13,9 @@ You should only use Metasploit-related tools in environments where you have clea
 
 I do not support, encourage, or assist with unauthorized access, harmful activity, exploitation of third-party systems, data theft, malware activity, or any illegal use of security tools.
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣀⣤⠤⠤⣴⣟⡁⠀⠀⠉⠉⠓⠶⣄⣤⣖⣉⡁⠀⠀⠀⠈⠉⠳⢤⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣠⠴⣚⣉⣭⣬⣉⣙⠲⢄⡈⠁⣀⣤⠤⠾⠿⠶⠶⠤⢤⣀⡈⠉⠙⠲⢦⡀⠀⠙⣶⡀⠀⠀⠀
 ⠀⢀⡼⢗⣋⣁⡀⠀⠀⠀⠈⠙⠲⡍⢳⡯⠔⠒⠛⠉⠉⠉⠙⠒⠪⣝⡒⢄⡀⠀⠈⠂⠀⢰⠙⣆⠀⠀
@@ -33,6 +35,8 @@ I do not support, encourage, or assist with unauthorized access, harmful activit
 ⠀⠀⠀⠈⠻⣤⣄⣈⡉⠛⠛⠛⠛⣙⣁⡤⠔⠚⠁⠀⠀⠀⠀⠀⠀⠀⢀⠀⠈⠀⣀⠔⠁⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠙⢷⣌⡉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣊⡤⠴⠖⠋⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠙⠓⠒⠒⠒⠒⠒⠚⠋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
 
 
 
@@ -153,7 +157,10 @@ Final Result (if nothing fucked up):
 - Cleans up the USB drive after execution.
 - Includes a hidden .exe and encrypted .dll for stealth.
 
-⠀⠀⠀⠀⠀⠀⢀⠴⠚⠉⠉⠀⠈⠉⠙⢲⡤⠐⠊⠉⠉⠉⠉⠲⡄⠀⠀⠀⠀⠀
+⠀⠀
+
+
+     ⠀⢀⠴⠚⠉⠉⠀⠈⠉⠙⢲⡤⠐⠊⠉⠉⠉⠉⠲⡄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⡴⡁⠀⠀⠀⢀⠤⠤⠤⢤⣀⢱⡀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀
 ⠀⠀⠀⣀⡴⠁⠀⠀⠐⠀⠀⠀⠀⢀⣀⣈⡙⢳⡀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
 ⠀⢠⢿⠷⡾⢷⣦⣀⠀⢀⡠⣶⡽⢷⣂⣀⠀⠀⣨⣶⣀⣉⠀⢀⣀⡀⠀⣀⣈⣢
