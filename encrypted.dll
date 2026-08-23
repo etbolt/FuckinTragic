@@ -7,6 +7,7 @@ key = 0xAA
 
 encrypted_data = bytes([b ^ key for b in payload])
 
+#Change out values
 img = Image.new("RGB", (100, 100))
 img.save("encrypted.dll", "PNG")
 
